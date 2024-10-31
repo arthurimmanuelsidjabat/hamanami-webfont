@@ -1,2 +1,2 @@
-# hamanami-webfont
+# Hamanami Webfont
 Webfont style for web development
